@@ -1,3 +1,3 @@
-daaef hello(): 
+def hello(): 
     print("hello python~")
 hello()
